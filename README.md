@@ -26,6 +26,7 @@ A base contém informações como data do pedido, região, categoria, produto, s
 ```text
 sql-sales-analysis/
 ├── data/
+└── superstore_sales.csv
 ├── queries/
 │   ├── 01_total_sales.sql
 │   ├── 02_sales_by_category.sql
