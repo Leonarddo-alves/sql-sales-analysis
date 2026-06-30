@@ -6,6 +6,12 @@ Este projeto apresenta consultas SQL para análise de dados de vendas, com foco 
 
 Praticar SQL aplicado à análise de dados, transformando perguntas de negócio em consultas.
 
+## Dados
+
+O projeto utiliza um dataset de vendas disponível na pasta `data/`.
+
+A base contém informações como data do pedido, região, categoria, produto, segmento de cliente e valor de venda.
+
 ## Perguntas respondidas
 
 - Qual foi o faturamento total?
