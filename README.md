@@ -34,3 +34,7 @@ sql-sales-analysis/
 │   ├── 05_sales_by_month.sql
 │   └── 06_sales_by_segment.sql
 └── README.md
+````
+
+## Status
+Concluído.
